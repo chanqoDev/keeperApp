@@ -1,7 +1,6 @@
 import React from "react";
 
-const date = new Date();
-const year = date.getFullYear();
+const year = new Date().getFullYear();
 
 function Footer() {
   return <footer> ChrisDevwok© {year} </footer>;
