@@ -1,3 +1,5 @@
+### This project encompases the use of Material UI where we build in react a Note app.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
